@@ -2,7 +2,6 @@ package com.javaappsbymdh.app.ws.sevice.impl;
 
 import com.javaappsbymdh.app.ws.UserRepository;
 import com.javaappsbymdh.app.ws.io.entity.UserEntity;
-import com.javaappsbymdh.app.ws.sevice.UserService;
 import com.javaappsbymdh.app.ws.shared.dto.UserDto;
 import org.springframework.beans.BeanUtils;
 import org.springframework.beans.factory.annotation.Autowired;
