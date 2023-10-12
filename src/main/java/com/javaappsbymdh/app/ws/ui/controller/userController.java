@@ -2,7 +2,8 @@ package com.javaappsbymdh.app.ws.ui.controller;
 
 import com.javaappsbymdh.app.ws.model.request.UserDetailsRequestModel;
 import com.javaappsbymdh.app.ws.model.resonse.UserRest;
-import com.javaappsbymdh.app.ws.sevice.impl.UserService;
+import com.javaappsbymdh.app.ws.sevice.UserService;
+import com.javaappsbymdh.app.ws.shared.Utils;
 import com.javaappsbymdh.app.ws.shared.dto.UserDto;
 import org.springframework.beans.BeanUtils;
 import org.springframework.beans.factory.annotation.Autowired;
